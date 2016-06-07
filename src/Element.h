@@ -1,8 +1,8 @@
 /*
  * Element.h
  *
- *  Created on: May 22, 2016
- *      Author: raydelto
+  *  Created on: jun 06, 2016
+ *      Author: rayderto perera y francis rosario
  */
 
 #ifndef ELEMENT_H_
